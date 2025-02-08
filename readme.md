@@ -121,11 +121,10 @@ with gr.Blocks(theme=gr.themes.Glass()) as demo:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 ## 👥 Support
 
-For support, please open an issue in the GitHub repository or contact the maintainers.
+For support, please open an issue in the GitHub repository or contact me @ Itsrobintomar@gmail.com.
 
----
-*Note: This chatbot is designed for educational purposes and should not be used as a replacement for professional mental health services.*
+
